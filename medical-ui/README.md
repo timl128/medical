@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 1. Download source code from git hub
 2. run `npm install` in project root
-3. Set the correct backend server url in App.js
+3. Set the correct backend server url in .env
 `REACT_APP_API_URL = "http://127.0.0.1:8084";` 
 
 4. run `npm start` to start the application
